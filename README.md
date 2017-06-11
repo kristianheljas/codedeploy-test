@@ -1,3 +1,3 @@
 # codedeploy-test
 
-Dveloping new feature #5
+Dveloping new feature #6
